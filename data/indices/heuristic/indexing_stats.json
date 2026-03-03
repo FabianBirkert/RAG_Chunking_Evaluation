@@ -1,0 +1,13 @@
+{
+  "strategy": "heuristic",
+  "num_documents": 250,
+  "num_chunks": 3079,
+  "chunk_len_chars_min": 111,
+  "chunk_len_chars_mean": 2203.7427736278014,
+  "chunk_len_chars_max": 3830,
+  "chunk_len_tokens_min": 55,
+  "chunk_len_tokens_mean": 521.612536537837,
+  "chunk_len_tokens_max": 1033,
+  "embedding_model": "text-embedding-3-small",
+  "created_at": "2025-12-19T21:48:47.162691"
+}
